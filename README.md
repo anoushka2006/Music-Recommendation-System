@@ -15,7 +15,7 @@ The algorithm recommends songs based on the top hits in a selected genre.
 The algorithm recommends songs based on user-selected songs in the database.
 
 
-<h3> Musical Features in the dataset: </h3>
+### Musical Features in the dataset:
 1. index - Location of song in data
 2. Artist - Creator of song
 3. Track - Name of the song
