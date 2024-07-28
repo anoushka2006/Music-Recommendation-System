@@ -4,9 +4,15 @@ Music Recommendation System that recommends based on top hit and popular songs i
 A music recommender system uses sophisticated algorithms to suggest songs based on user preferences, and song popularity to give song recommendations and predict hits in the genre based on the similarity of certain musical features. By using content-based filtering, the system examines song characteristics like genre, tempo and more (listed below), the system provides personalized recommendations. Advanced machine learning techniques enhance the accuracy of these suggestions, predicting hits within specific genres by analyzing historical patterns. This approach not only enhances user experience and music discovery but also provides valuable market insights for artists and labels, ensuring that the recommendations remain relevant and engaging.
 
 <h2> Sections </h2>
-```Hit Prediction```: The algorithm predicts hits based on the similarity of songs to previous hits.
-```Recommending songs based on Top Hits in a Genre```: The algorithm recommends songs based on the top hits in a selected genre.
-```Recommending songs based on content and user selection```: The algorithm recommends songs based on user-selected songs in the database.
+### Hit Prediction
+The algorithm predicts hits based on the similarity of songs to previous hits.
+
+### Recommending songs based on Top Hits in a Genre
+The algorithm recommends songs based on the top hits in a selected genre.
+
+### Recommending songs based on content and user selection
+The algorithm recommends songs based on user-selected songs in the database.
+
 
 Musical Features in the dataset:
 1. index - Location of song in data
@@ -45,6 +51,6 @@ The UI has been developed using Streamlit, and hosted using NGROK as it is only 
 ![Webpage]("images/index.png")
 
 ## Example of the User-Based Recommendation in use
-![Content-Based Recommendation]("[images/content-filtering.png](https://colab.research.google.com/drive/1-vvmK2xOUnXCVCFMyKVvP9KfIBNc3vNm?usp=sharing)")
+![Content-Based Recommendation]("images/content-filtering.png")
 
 <h3><span style="color: red">Note: </span>Predicted Top Hits and Content-Based Recommendation may take a LONG time to run</h3>
