@@ -45,7 +45,7 @@ This program was written and developed in Google Colab.
 
 To run the recommendation system, the last section ```Streamlit``` needs to be run. 
 A temporary link will be generated that will allow the user full access to the algorithm with a user-friendly interface.
-Click on "Visit site" to use the recommendation system.
+Click on "Visit Site" to use the recommendation system.
 
 The UI has been developed using Streamlit, and hosted using NGROK as it is only a prototype.
 
