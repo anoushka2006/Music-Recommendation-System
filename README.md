@@ -1,7 +1,5 @@
 # Music-Recommendation-System
-Music Recommendation System that recommends based on top hit and popular songs in a genre and content-based filtering on user choices.
-
-A music recommender system uses sophisticated algorithms to suggest songs based on user preferences, and song popularity to give song recommendations and predict hits in the genre based on the similarity of certain musical features. By using content-based filtering, the system examines song characteristics like genre, tempo and more (listed below), the system provides personalized recommendations. Advanced machine learning techniques enhance the accuracy of these suggestions, predicting hits within specific genres by analyzing historical patterns. This approach not only enhances user experience and music discovery but also provides valuable market insights for artists and labels, ensuring that the recommendations remain relevant and engaging.
+Music Recommendation System that uses sophisticated algorithms to suggest songs based on user preferences, and song popularity to give song recommendations and predict hits in the genre based on the similarity of certain musical features. By using content-based filtering, the system examines song characteristics like genre, tempo and more (listed below), the system provides personalized recommendations. Advanced machine learning techniques enhance the accuracy of these suggestions, predicting hits within specific genres by analyzing historical patterns. This approach not only enhances user experience and music discovery but also provides valuable market insights for artists and labels, ensuring that the recommendations remain relevant and engaging.
 
 <h2> Sections </h2>
 
