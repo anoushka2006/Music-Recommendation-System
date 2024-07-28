@@ -1,9 +1,9 @@
-# Music-Recommendation-System
+<img width="366" alt="image" src="https://github.com/user-attachments/assets/7b05e734-feb0-489e-976d-5fad5f0c70e5"># Music-Recommendation-System
 Music Recommendation System that recommends based on top hit and popular songs in a genre and content-based filtering on user choices.
 
 A music recommender system uses sophisticated algorithms to suggest songs based on user preferences, and song popularity to give song recommendations and predict hits in the genre based on the similarity of certain musical features. By using content-based filtering, the system examines song characteristics like genre, tempo and more (listed below), the system provides personalized recommendations. Advanced machine learning techniques enhance the accuracy of these suggestions, predicting hits within specific genres by analyzing historical patterns. This approach not only enhances user experience and music discovery but also provides valuable market insights for artists and labels, ensuring that the recommendations remain relevant and engaging.
 
-#Sections
+<h2> Sections </h2>
 ```Hit Prediction```: The algorithm predicts hits based on the similarity of songs to previous hits.
 ```Recommending songs based on Top Hits in a Genre```: The algorithm recommends songs based on the top hits in a selected genre.
 ```Recommending songs based on content and user selection```: The algorithm recommends songs based on user-selected songs in the database.
@@ -32,7 +32,7 @@ Musical Features in the dataset:
 
 ### Getting started
 This program has been written and developed in Google Colab. 
-![Google Colab File]()
+![Google Colab File](https://colab.research.google.com/drive/1-vvmK2xOUnXCVCFMyKVvP9KfIBNc3vNm?usp=sharing)
 
 To run the recommendation system, the last section ```Streamlit``` needs to be run. 
 A temporary link will be generated that will allow the user full access to the algorithm with a user-friendly interface.
