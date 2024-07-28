@@ -38,7 +38,9 @@ NOTE: This data has been retrieved from a Spotify API from 2015.
 
 <h2> Getting started </h2>
 This program was written and developed in Google Colab. 
-# [Google Colab File](https://colab.research.google.com/drive/1-vvmK2xOUnXCVCFMyKVvP9KfIBNc3vNm?usp=sharing)
+[Google Colab File](https://colab.research.google.com/drive/1-vvmK2xOUnXCVCFMyKVvP9KfIBNc3vNm?usp=sharing)
+
+
 
 To run the recommendation system, the last section ```Streamlit``` needs to be run. 
 A temporary link will be generated that will allow the user full access to the algorithm with a user-friendly interface.
@@ -47,12 +49,12 @@ Click on "Visit site" to use the recommendation system.
 The UI has been developed using Streamlit, and hosted using NGROK as it is only a prototype.
 
 ## Getting the link from the code
-![Local Host]("link-to-website.png")
+![Local Host](link-to-website.png)
 
 ## Webpage
-![Webpage]("index.png")
+![Webpage](index.png)
 
 ## Example of the User-Based Recommendation in use
-![Content-Based Recommendation]("content-filtering.png")
+![Content-Based Recommendation](content-filtering.png)
 
 <h3><span style=color: "red">Note: </span>Predicted Top Hits and Content-Based Recommendation may take a LONG time to run</h3>
