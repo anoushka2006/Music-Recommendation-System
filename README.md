@@ -15,7 +15,7 @@ The algorithm recommends songs based on the top hits in a selected genre.
 The algorithm recommends songs based on user-selected songs in the database.
 
 
-### Musical Features in the dataset:
+<h3> Musical Features in the dataset: </h3>
 1. index - Location of song in data
 2. Artist - Creator of song
 3. Track - Name of the song
@@ -34,10 +34,10 @@ The algorithm recommends songs based on user-selected songs in the database.
 16. Label - Whether a song is a hit or not
 17. url - Link to the song on Spotify
 
-<h3>This data has been retrieved from a Spotify API from 2015.</h3>
+### NOTE: This data has been retrieved from a Spotify API from 2015.
 
 
-### Getting started
+<h3> Getting started </h3>
 This program has been written and developed in Google Colab. 
 ![Google Colab File](https://colab.research.google.com/drive/1-vvmK2xOUnXCVCFMyKVvP9KfIBNc3vNm?usp=sharing)
 
