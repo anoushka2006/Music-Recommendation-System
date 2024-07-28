@@ -43,7 +43,8 @@ This program was written and developed in Google Colab.
 
 
 
-To run the recommendation system, the last section ```Streamlit``` needs to be run. 
+To run the recommendation system, the last section ```Streamlit``` needs to be run, followed by the section ```Launch the Website```. 
+
 A temporary link will be generated that will allow the user full access to the algorithm with a user-friendly interface.
 Click on "Visit Site" to use the recommendation system.
 
